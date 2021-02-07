@@ -37,7 +37,7 @@ I'm a Software Development Student | Full Stack | Front - End | Back - End | Web
 <a href="https://www.instagram.com/eduaraujofilho/?hl=pt-br" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>  
-<a href="https://www.linkedin.com/in/eduardo-de-ara%C3%BAjo-gomes-filho-822428b8/" target="_blank">
+<a href="https://www.linkedin.com/in/eduaraujofilho" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a> 
 </a>  

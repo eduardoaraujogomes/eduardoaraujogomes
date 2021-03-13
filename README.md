@@ -1,6 +1,6 @@
 # Hi, my name is Eduardo de Araújo Gomes Filho <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px">
 
-I'm a Software Development Student | Full Stack | Front - End | Back - End | Web || at Trybe :green_heart::rocket:
+I'm a Front - End Developer | Full Stack  | Back - End | Web ||
 <br><br>
 
 ## OS

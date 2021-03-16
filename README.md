@@ -22,11 +22,9 @@ I'm a Front - End Developer | Full Stack  | Back - End | Web ||
 <br><br>
 ## Stats
 
-<a href="https://github.com/iampawan">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardoaraujogomes&theme=light&hide_langs_below=1" />
-</a>
-<a href="https://github.com/iampawan">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=eduardoaraujogomes&show_icons=true&theme=light&line_height=27" alt="Pawan's github stats"/>
+<br/>[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=beatrizsabbatini&count_private=true&count_private=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=beatrizsabbatini&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 <br><br>
   
 ### 📫 How to reach me

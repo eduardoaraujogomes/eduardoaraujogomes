@@ -19,7 +19,12 @@ Studying at Digital House - CTD | Front End Developer | Full Stack  | Back - End
 <br>
 ## Stats
 
-<br/>![Eduardo's github stats](https://github-readme-stats.vercel.app/api?username=eduardoaraujogomes&count_private=true&count_private=true&theme=tokyonight) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eduardoaraujogomes&layout=compact&theme=tokyonight)
+<a href="https://github.com/MartinHeinz/MartinHeinz">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardoaraujogomes&hide=html,css,tex&&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40&langs_count=3" />
+</a>
+<a href="https://github.com/MartinHeinz/MartinHeinz">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=eduardoaraujogomes&show_icons=true&line_height=27&count_private=true&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Martin's GitHub Stats" />
+</a>
 
 <br><br>
   

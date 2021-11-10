@@ -1,7 +1,7 @@
 # Hi there!  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px">
 <br><br>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=My%20name%20is%20Eduardo%20de%20Araújo%20Gomes%20Filho%20;Studying%20at%20Digital%20House-CTD%20;Full-stack%20developer;Always%20learning%20new%20things&font=Press%20Start%202P&center=true&width=1000&height=60&color=FFFFFF&vCenter=true&size=25">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=My%20name%20is%20Eduardo%20de%20Araújo%20Gomes%20Filho%20;Studying%20at%20Digital%20House-CTD%20;Full-stack%20developer;Always%20learning%20new%20things&font=Press%20Start%202P&center=true&width=1000&height=60&color=FFFFFF&size=25">
 </p>
 <br><br>
 

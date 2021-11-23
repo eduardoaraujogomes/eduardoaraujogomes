@@ -1,9 +1,9 @@
 # Eduardo de Araújo Gomes Filho
 
-<strong> Full-Stack Developer | Front-End | Back-End</strong>
-<a href="https://www.digitalhouse.com/br/bolsas/certifiedtechdeveloper" target="_blank">Stuying at CTD-Digital House</a>
+<strong> Full-Stack Developer | Front-End | Back-End |</strong>
+[Studying at CTD-Digital House](https://www.digitalhouse.com/br/bolsas/certifiedtechdeveloper)
 
-<br><br>
+
 
 
 ### Technology Stack
@@ -25,7 +25,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardoaraujogomes&hide=html,css,tex&&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40&langs_count=3" />
 </a>
 
-<br><br>
+<br>
   
 ### 📫 How to reach me
 <p>

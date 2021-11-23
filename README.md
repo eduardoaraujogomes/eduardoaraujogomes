@@ -1,4 +1,4 @@
-# Hi there! My name is Eduardo de Araújo Gomes Filho.
+# Eduardo de Araújo Gomes Filho.
 
 <strong> Full-Stack Developer | Front-End | Back-End - Studying at CTD-Digital House</strong>
 <br><br>

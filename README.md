@@ -1,6 +1,6 @@
-# Eduardo de Araújo Gomes Filho.
+# Eduardo de Araújo Gomes Filho
 
-<strong> Full-Stack Developer | Front-End | Back-End - Studying at CTD-Digital House</strong>
+<strong> Full-Stack Developer | Front-End | Back-End - <a href="https://www.digitalhouse.com/br/bolsas/certifiedtechdeveloper" target="_blank"> Studying at CTD-Digital House</a></strong>
 <br><br>
 
 

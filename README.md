@@ -3,7 +3,7 @@
 <strong> Full-Stack Developer | Front-End | Back-End |</strong>
 [Studying at CTD-Digital House](https://www.digitalhouse.com/br/bolsas/certifiedtechdeveloper)
 
-
+![](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=eduardoaraujogomes&repo=eduardoaraujogomes&countColorcountColor&style=flat)
 
 
 ### Technology Stack

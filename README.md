@@ -3,8 +3,6 @@
 <strong> Full-Stack Developer | Front-End | Back-End |</strong>
 [Studying at CTD-Digital House](https://www.digitalhouse.com/br/bolsas/certifiedtechdeveloper)
 
-![](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=eduardoaraujogomes&repo=eduardoaraujogomes&countColorcountColor&style=flat)
-
 
 ### Technology Stack
 ![image](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)![image](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)![image](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)<br>![image](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)![image](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)![image](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)<br>![image](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)![image](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)![image](https://img.shields.io/badge/Insomnia-5849be?style=for-the-badge&logo=Insomnia&logoColor=white)
